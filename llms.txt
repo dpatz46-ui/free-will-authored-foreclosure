@@ -1,0 +1,41 @@
+# Free Will Through Authored Foreclosure
+
+> A long-form philosophical working paper by Dustin Patzer proposing one possible expression of free will through ontic openness, exclusive actualization, authored foreclosure, and recursive accrued self-authorship.
+
+## Primary documents
+
+- [Canonical full article](https://dpatz46-ui.github.io/free-will-authored-foreclosure/): Complete static HTML edition and preferred canonical URL.
+- [Full Markdown text](https://dpatz46-ui.github.io/free-will-authored-foreclosure/paper.md): Complete source text in Markdown.
+- [Complete LLM-oriented text](https://dpatz46-ui.github.io/free-will-authored-foreclosure/llms-full.txt): Complete paper text without website navigation.
+- [Repository README](https://github.com/dpatz46-ui/free-will-authored-foreclosure): Abstract, central thesis, argument map, scope limitations, terminology, and citation information.
+
+## Central claim
+
+The paper offers a conditional existential proof schema. In one proposed expression, a candidate freedom witness occurs where a diachronically sustained self-object process materially shapes an objectively nondegenerate successor structure, one continuation exclusively actualizes, and the relevant openness and routing are bound to the same material transition pathway. Recursive uptake allows the effects of earlier qualifying trajectories to enter the constitution from which later self-directed trajectories arise.
+
+## Key terminology
+
+- authored foreclosure
+- accrued self-authorship
+- band-authorship under liveness
+- exclusive actualization
+- recursive accrual
+- self-object intervention
+- curriculum access
+- relevance binding
+- sedimented freedom
+- ontic openness
+- constitutive luck
+- event-causal libertarianism
+- diachronic agency
+
+## Scope limitations
+
+The paper proposes one possible witness rather than a universal theory of all freedom or selfhood. It does not claim that the physical prerequisites have been established, does not infer authorship from randomness, does not require primitive agent causation or ultimate self-origination, and brackets culpability, punishment, legal responsibility, and basic-desert moral responsibility.
+
+## Citation and versioning
+
+- [Citation metadata](https://github.com/dpatz46-ui/free-will-authored-foreclosure/blob/main/CITATION.cff)
+- [BibTeX citation](https://github.com/dpatz46-ui/free-will-authored-foreclosure/blob/main/CITATION.bib)
+- [Releases](https://github.com/dpatz46-ui/free-will-authored-foreclosure/releases)
+- [Repository](https://github.com/dpatz46-ui/free-will-authored-foreclosure)

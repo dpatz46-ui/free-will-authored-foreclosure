@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the working monograph using the preferred citation below."
+title: "Free Will Through Authored Foreclosure repository"
+authors:
+  - family-names: "Patzer"
+    given-names: "Dustin"
+version: "0.20"
+date-released: 2026-07-17
+url: "https://github.com/dpatz46-ui/free-will-authored-foreclosure"
+preferred-citation:
+  type: unpublished
+  authors:
+    - family-names: "Patzer"
+      given-names: "Dustin"
+  title: "Free Will Through Authored Foreclosure: A Diachronic Theory of Accrued Self-Authorship"
+  year: 2026
+  month: 7
+  url: "https://dpatz46-ui.github.io/free-will-authored-foreclosure/"
